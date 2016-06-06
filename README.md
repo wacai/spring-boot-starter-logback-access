@@ -1,3 +1,5 @@
+Use [logback-access](http://logback.qos.ch/access.html) as Web server access log implmenetation for `spring-boot-starter-web` projects.
+
 使用[logback-access](http://logback.qos.ch/access.html)作为 `spring-boot-starter-web` 项目内置 WEB 容器的 Access 日志输出的实现。
 
 ## Usage
